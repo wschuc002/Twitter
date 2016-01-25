@@ -12,8 +12,8 @@ import os
 
 os.getcwd()
 #os.chdir("/home/user/git/Twitter")
-os.chdir("C:\git\Twitter")
-os.getcwd()
+#os.chdir("C:\git\Twitter")
+#os.getcwd()
 
 ##codes to access twitter API. 
 APP_KEY = "4UVISHUjOibJfJR5bQJmxtYkn"
